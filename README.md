@@ -138,7 +138,7 @@ cp -r renovation-color-design .workbuddy/skills/
 - 新地区避坑指南（华北/华东/西北等）
 - 决策表的修正意见
 
-提交规范见 [`CONTRIBUTING.md`](CONTRIBUTING.md)（待补）。
+提交规范见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。
 
 ## 协议
 
